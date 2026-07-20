@@ -1,0 +1,6 @@
+dist
+node_modules
+.wrangler
+public/resume/*.pdf
+public/images/**/*.webp
+public/*.png
